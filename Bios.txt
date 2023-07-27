@@ -1,0 +1,180 @@
+Name: Nasrin Akhter, PhD PhD, George Mason University
+Bio: Assistant Professor of TeachingDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Carl Alphonce, PhD PhD, University of British Columbia
+Bio: Professor of TeachingDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Roshan Ayyalasomayajula, PhD PhD, University of California San Diego
+Bio: Assistant ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Ethan Blanton, PhD PhD, Purdue University
+Bio: Assistant Professor of TeachingDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Marina Blanton, PhD PhD, Purdue University
+Bio: Associate ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied SciencesFaculty DirectorWomen in Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Varun Chandola, PhD PhD, University of Minnesota
+Bio: Associate ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Changyou Chen, PhD PhD, Australian National University
+Bio: Assistant ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Zongchen Chen, PhD PhD, Massachusetts Institute of Technology
+Bio: Assistant ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Karthik Dantu, PhD PhD, University of Southern California
+Bio: Associate ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Sreyasee Das Bhattacharjee, PhD PhD, Indian Institute of Technology
+Bio: Assistant Professor of TeachingDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Murat Demirbas, PhD PhD, The Ohio State University
+Bio: ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Paul Dickson, PhD PhD, University of Massachusetts Amherst
+Bio: Associate Professor of TeachingDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: David Doermann, PhD PhD, University of Maryland
+Bio: SUNY Empire Innovation ProfessorProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Mingchen Gao, PhD PhD, Rutgers University
+Bio: Assistant ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Venu Govindaraju, PhD PhD, University at Buffalo
+Bio: SUNY Distinguished ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied SciencesAssociate DirectorCenter of Excellence for Document Analysis and Recognition (CEDAR)School of Engineering and Applied Sciences
+
+Name: Xiangyu Guo, PhD PhD, University at Buffalo
+Bio: Assistant Professor of TeachingDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Jesse Hartloff, PhD PhD, University at Buffalo
+Bio: Associate Professor of TeachingDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Tom Hayes, PhD PhD, University of Chicago
+Bio: Associate ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Xin (Roger) He, PhD PhD, The Ohio State University
+Bio: ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Matthew Hertz, PhD PhD, University of Massachusetts Amherst
+Bio: Professor of TeachingDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Andrew Hirsch, PhD PhD, Cornell University
+Bio: Assistant ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Christopher Hoadley, PhD PhD, University of California, Berkeley
+Bio: ProfessorDepartment of Learning and InstructionGraduate School of Education
+
+Name: Hongxin Hu, PhD PhD, Arizona State University
+Bio: Associate ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Alan Hunt, MS MS, University at Buffalo
+Bio: Professor of PracticeDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Kaiyi Ji, PhD PhD, Ohio State University
+Bio: Assistant ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Zhanpeng Jin, PhD PhD, University of Pittsburgh
+Bio: Associate ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Kenneth Joseph, PhD PhD, Carnegie Mellon University
+Bio: Assistant ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Oliver Kennedy, PhD PhD, Cornell University
+Bio: Associate ProfessorCo-Director of Graduate StudiesDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Matthew Knepley, PhD PhD, Purdue University
+Bio: Associate ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied SciencesAffiliated FacultyDepartment of Mechanical and Aerospace EngineeringSchool of Engineering and Applied Sciences
+
+Name: Tevfik Kosar, PhD PhD, University of Wisconsin-Madison
+Bio: ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Haonan Lu, PhD PhD, University of Southern California
+Bio: Assistant ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Kelin Luo, PhD PhD, University of Bonn
+Bio: Assistant Professor of TeachingDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Siwei Lyu, PhD PhD, Dartmouth College
+Bio: SUNY Empire Innovation ProfessorProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Eric Mikida, PhD PhD, University of Illinois
+Bio: Assistant Professor of TeachingDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Russ Miller, PhD PhD, Binghamton University
+Bio: UB Distinguished ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied SciencesAdjunct ProfessorDepartment of Electrical EngineeringSchool of Engineering and Applied Sciences
+
+Name: Ifeoma Nwogu, PhD PhD, University at Buffalo
+Bio: Associate ProfessorCo-Director of Graduate StudiesDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Shamsad Parvin, PhD PhD, The University of Electro-Communications, Tokyo, Japan
+Bio: Assistant Professor of TeachingDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Chunming Qiao, PhD PhD, University of Pittsburgh
+Bio: SUNY Distinguished ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied SciencesAdjunct ProfessorDepartment of Electrical EngineeringSchool of Engineering and Applied Sciences
+
+Name: Bina Ramamurthy, PhD PhD, University at Buffalo
+Bio: Professor of TeachingDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Nalini Ratha, PhD PhD, Michigan State University
+Bio: SUNY Empire Innovation ProfessorProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Ken Regan, PhD PhD, Oxford University
+Bio: ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Atri Rudra, PhD PhD, University of Washington
+Bio: Katherine Johnson Chair in Artificial IntelligenceProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: A. Erdem Sariyuce, PhD PhD, The Ohio State University
+Bio: Assistant ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Kris Schindler, PhD PhD, University at Buffalo
+Bio: Professor of TeachingCo-Director of Undergraduate StudiesDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Ramalingam Sridhar, PhD PhD, Washington State University, Pullman, WA
+Bio: Associate ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied SciencesAdjunct Associate ProfessorDepartment of Electrical EngineeringSchool of Engineering and Applied Sciences
+
+Name: Rohini Srihari, PhD PhD, University at Buffalo
+Bio: ProfessorAssociate Department ChairDepartment of Computer Science and EngineeringSchool of Engineering and Applied SciencesAdjunct ProfessorDepartment of LinguisticsSchool of Engineering and Applied Sciences
+
+Name: Satish Tripathi, PhD PhD, University of Toronto
+Bio: ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Shambhu Upadhyaya, PhD PhD, University of Newcastle, NSW, Australia
+Bio: ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied SciencesDirectorCenter of Excellence in Information Systems Assurance Research and Education (CEISARE)School of Engineering and Applied Sciences
+
+Name: Alina Vereshchaka, PhD PhD, University at Buffalo
+Bio: Assistant Professor of TeachingDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Chen Wang, PhD PhD, Nanyang Technological University
+Bio: Assistant ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Jennifer Winikus, PhD PhD, Michigan Technological University
+Bio: Assistant Professor of TeachingDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Yaxiong Xie, PhD PhD, Nanyang Technological University
+Bio: Assistant ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Jinjun Xiong, PhD PhD, University of California at Los Angeles
+Bio: SUNY Empire Innovation ProfessorProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Jinhui Xu, PhD PhD, University of Notre Dame
+Bio: ProfessorDepartment ChairDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Wenyao Xu, PhD PhD, University of California, Los Angeles
+Bio: ProfessorAssociate Department ChairDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Junsong Yuan, PhD PhD, Northwestern University
+Bio: ProfessorDirector of Graduate AdmissionsDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Zhuoyue Zhao, PhD PhD, University of Utah
+Bio: Assistant ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Ziming Zhao, PhD PhD, Arizona State University
+Bio: Assistant ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Lukasz (Luke) Ziarek, PhD PhD, Purdue University
+Bio: Associate ProfessorCo-Director of Undergraduate StudiesDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+
+Name: Jaroslaw (Jaric) Zola, PhD PhD, Grenoble Institute of Technology, France
+Bio: Associate ProfessorDepartment of Computer Science and EngineeringSchool of Engineering and Applied Sciences
+

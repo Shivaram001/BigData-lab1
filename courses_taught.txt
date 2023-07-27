@@ -1,0 +1,180 @@
+Name: Nasrin Akhter, PhD PhD, George Mason University
+Subject: Research Topics: Machine learning; computational biology
+
+Name: Carl Alphonce, PhD PhD, University of British Columbia
+Subject: Research Topics: Computer science education
+
+Name: Roshan Ayyalasomayajula, PhD PhD, University of California San Diego
+Subject: Research Topics: Wireless systems; mobile computing; Internet of Things (IoT); wireless sensing; machine learning
+
+Name: Ethan Blanton, PhD PhD, Purdue University
+Subject: Research Topics: Operating systems; networking; compilers and runtimes
+
+Name: Marina Blanton, PhD PhD, Purdue University
+Subject: Research Topics: Applied cryptography; information security; privacy-preserving computation and outsourcing
+
+Name: Varun Chandola, PhD PhD, University of Minnesota
+Subject: Research Topics: Big data analytics; anomaly detection
+
+Name: Changyou Chen, PhD PhD, Australian National University
+Subject: Research Topics: Large-scale Bayesian sampling and inference; deep generative models such as VAE and GAN; deep reinforcement learning with Bayesian methods
+
+Name: Zongchen Chen, PhD PhD, Massachusetts Institute of Technology
+Subject: Research Topics: Mobile sensor networks; robot networks; networked embedded systems; mobile computing; wireless networks; embedded operating systems
+
+Name: Karthik Dantu, PhD PhD, University of Southern California
+Subject: Research Topics: Mobile sensor networks; robot networks; networked embedded systems; mobile computing; wireless networks; embedded operating systems
+
+Name: Sreyasee Das Bhattacharjee, PhD PhD, Indian Institute of Technology
+Subject: Research Topics: Computer vision; machine learning; multimodal data analytics; pattern recognition; large-scale visual search and mining; big data analytics
+
+Name: Murat Demirbas, PhD PhD, The Ohio State University
+Subject: Research Topics: Distributed systems and networks; fault-tolerant computing; self-stabilization; wireless sensor networks
+
+Name: Paul Dickson, PhD PhD, University of Massachusetts Amherst
+Subject: Research Topics: Computer science education
+
+Name: David Doermann, PhD PhD, University of Maryland
+Subject: Research Topics: Document image understanding, video analysis, pattern recognition, computer vision, media forensics, artificial intelligence
+
+Name: Mingchen Gao, PhD PhD, Rutgers University
+Subject: Research Topics: Big healthcare data; medical imaging informatics; computer vision; machine learning
+
+Name: Venu Govindaraju, PhD PhD, University at Buffalo
+Subject: Research Topics: Pattern recognition; digital libraries; biometrics
+
+Name: Xiangyu Guo, PhD PhD, University at Buffalo
+Subject: Research Topics: Computer science education
+
+Name: Jesse Hartloff, PhD PhD, University at Buffalo
+Subject: Research Topics: Computer science education
+
+Name: Tom Hayes, PhD PhD, University of Chicago
+Subject: Research Topics: Theoretical computer science and machine learning, including convergence rates for Markov chains, sampling algorithms for random combinatorial structures, physics of algorithms, and distributed algorithms for radio-enabled sensor networks
+
+Name: Xin (Roger) He, PhD PhD, The Ohio State University
+Subject: Research Topics: Graph algorithms; graph drawing; graph theory
+
+Name: Matthew Hertz, PhD PhD, University of Massachusetts Amherst
+Subject: Research Topics: Computer science education; runtime systems; dynamic memory management
+
+Name: Andrew Hirsch, PhD PhD, Cornell University
+Subject: Research Topics: Programming languages; epistemic logic; type theory; concurrency; language-based security; information-flow control
+
+Name: Christopher Hoadley, PhD PhD, University of California, Berkeley
+Subject: Research Topics: Computer Science Education; Curriculum and Instruction; Information Science; Access and Equity; Cultural Competence and Humility; Information behavior; Engineering Education; Information practices; Cognition; Curriculum and Instruction; Diversity; Digital Media and Learning; Environmental Education; Information literacy; Digital literacy; ESL / ENL / Bilingual
+
+Name: Hongxin Hu, PhD PhD, Arizona State University
+Subject: Research Topics: Emerging network technologies and security, machine learning for security and privacy, security and privacy in IoT and CPS, security and privacy in social networks, usable privacy and security
+
+Name: Alan Hunt, MS MS, University at Buffalo
+Subject: Research Topics: Software; IT systems
+
+Name: Kaiyi Ji, PhD PhD, Ohio State University
+Subject: Research Topics: Optimization algorithms; machine learning; big data analytics; federated learning and networks
+
+Name: Zhanpeng Jin, PhD PhD, University of Pittsburgh
+Subject: Research Topics: Emerging biometrics; human-computer interaction and cognitive science; cyber-physical security; neuromorphic computing; mobile and wearable computing; low-power sensing
+
+Name: Kenneth Joseph, PhD PhD, Carnegie Mellon University
+Subject: Research Topics: Obtaining a better understanding of the dynamics and cognitive representations of stereotypes and prejudice, and their inter-relationships with sociocultural structure and behavior
+
+Name: Oliver Kennedy, PhD PhD, Cornell University
+Subject: Research Topics: Databases; programming languages; user interfaces for data science; scalable compilers; managing uncertainty in data; data structures; healthy and equitable food systems
+
+Name: Matthew Knepley, PhD PhD, Purdue University
+Subject: Research Topics: Scalable linear and nonlinear solvers for multiphysics problems; bioelectrostatics, classical density functional theory, and molecular modeling; geophysical modeling in crustal deformation, mantle convection, and magma dynamics; scientific library development and automated scientific computing; libraries and code generation for high performance computing and GPUs; FEM and BEM discretizations
+
+Name: Tevfik Kosar, PhD PhD, University of Wisconsin-Madison
+Subject: Research Topics: Data clouds; data-intensive computing; petascale distributed systems; storage and I/O optimization
+
+Name: Haonan Lu, PhD PhD, University of Southern California
+Subject: Research Topics: Distributed systems; databases
+
+Name: Kelin Luo, PhD PhD, University of Bonn
+Subject: Research Topics: ???
+
+Name: Siwei Lyu, PhD PhD, Dartmouth College
+Subject: Research Topics: digital media forensics; computer vision; machine learning
+
+Name: Eric Mikida, PhD PhD, University of Illinois
+Subject: Research Topics: Computer science education
+
+Name: Russ Miller, PhD PhD, Binghamton University
+Subject: Research Topics: High-performance computing; parallel algorithms and architectures; cyberinfrastructure; grid and cloud computing; computational crystallography; molecular structure determination; computational geometry
+
+Name: Ifeoma Nwogu, PhD PhD, University at Buffalo
+Subject: Research Topics: Human behavior modeling; sign language understanding; probabilistic modeling
+
+Name: Shamsad Parvin, PhD PhD, The University of Electro-Communications, Tokyo, Japan
+Subject: Research Topics: Computer science education; wireless communications; wireless sensor network; routing protocol; cognitive radio network; software-defined radio; machine learning
+
+Name: Chunming Qiao, PhD PhD, University of Pittsburgh
+Subject: Research Topics: Future generation communication systems; optical networks; survivable/resilient protocols; wireless and mobile networks (including sensor networks)
+
+Name: Bina Ramamurthy, PhD PhD, University at Buffalo
+Subject: Research Topics: Cloud computing; computer architecture; data-intensive computing; parallel processing
+
+Name: Nalini Ratha, PhD PhD, Michigan State University
+Subject: Research Topics: Computer vision; artificial intelligence; biometrics and fairness; and trust in AI
+
+Name: Ken Regan, PhD PhD, Oxford University
+Subject: Research Topics: Mathematical logic; theoretical computer science
+
+Name: Atri Rudra, PhD PhD, University of Washington
+Subject: Research Topics: Structured linear algebra; society and computing; coding theory; database algorithms
+
+Name: A. Erdem Sariyuce, PhD PhD, The Ohio State University
+Subject: Research Topics: Graph mining; social network analysis; network science; temporal network analysis; combinatorial scientific computing; stream processing; distributed and parallel computing
+
+Name: Kris Schindler, PhD PhD, University at Buffalo
+Subject: Research Topics: Computer architecture; networking; VLSI systems
+
+Name: Ramalingam Sridhar, PhD PhD, Washington State University, Pullman, WA
+Subject: Research Topics: Computer architecture; embedded technologies; VLSI circuits and systems; wireless networks and security
+
+Name: Rohini Srihari, PhD PhD, University at Buffalo
+Subject: Research Topics: Information extraction; information retrieval; multimedia information retrieval; text mining
+
+Name: Satish Tripathi, PhD PhD, University of Toronto
+Subject: Research Topics: Behavioral biometrics; computer security; distributed systems; fault-tolerant computing (hardware/software)
+
+Name: Shambhu Upadhyaya, PhD PhD, University of Newcastle, NSW, Australia
+Subject: Research Topics: Behavioral biometrics; computer security; distributed systems; fault-tolerant computing (hardware/software)
+
+Name: Alina Vereshchaka, PhD PhD, University at Buffalo
+Subject: Research Topics: Optimal control in complex systems, including social behavior modeling, deep reinforcement learning, multi-agent settings, deep learning, adversarial machine learning, transportation and large-scale social system dynamics
+
+Name: Chen Wang, PhD PhD, Nanyang Technological University
+Subject: Research Topics: Robotic perception; robotic vision; robotic learning
+
+Name: Jennifer Winikus, PhD PhD, Michigan Technological University
+Subject: Research Topics: Computer engineering outreach and education, data fusion, digital and embedded systems
+
+Name: Yaxiong Xie, PhD PhD, Nanyang Technological University
+Subject: Research Topics: Next-generation networks; mobile computing; edge computing; artificial intelligence of things
+
+Name: Jinjun Xiong, PhD PhD, University of California at Los Angeles
+Subject: Research Topics: Cognitive computing, big data analytics, deep learning, smarter energy, application of cognitive computing for industrial solutions
+
+Name: Jinhui Xu, PhD PhD, University of Notre Dame
+Subject: Research Topics: Algorithms; computational geometry; machine learning; differential privacy; geometric computing in deep learning and biomedical applications
+
+Name: Wenyao Xu, PhD PhD, University of California, Los Angeles
+Subject: Research Topics: Embedded and cyber-physical systems; body sensor networks; biomedical signal analytics; telemedicine; human-computer interaction
+
+Name: Junsong Yuan, PhD PhD, Northwestern University
+Subject: Research Topics: Computer vision; pattern recognition; video analytics; large-scale visual search and mining
+
+Name: Zhuoyue Zhao, PhD PhD, University of Utah
+Subject: Research Topics: Database systems; security
+
+Name: Ziming Zhao, PhD PhD, Arizona State University
+Subject: Research Topics: Hardware-assisted security; system security; usable security; cybercrime analysis
+
+Name: Lukasz (Luke) Ziarek, PhD PhD, Purdue University
+Subject: Research Topics: Concurrency/parallelism; real-time Java; session types for distributed systems; visual debugging
+
+Name: Jaroslaw (Jaric) Zola, PhD PhD, Grenoble Institute of Technology, France
+Subject: Research Topics: Scalable computing; high performance and parallel computing; computational biology; data-driven scientific computing
+
